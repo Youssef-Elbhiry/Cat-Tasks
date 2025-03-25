@@ -1,0 +1,15 @@
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\bin\Debug\net8.0\Week3.exe
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\bin\Debug\net8.0\Week3.deps.json
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\bin\Debug\net8.0\Week3.runtimeconfig.json
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\bin\Debug\net8.0\Week3.dll
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\bin\Debug\net8.0\Week3.pdb
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.AssemblyInfoInputs.cache
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.AssemblyInfo.cs
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.csproj.CoreCompileInputs.cache
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.sourcelink.json
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.dll
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\refint\Week3.dll
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.pdb
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\Week3.genruntimeconfig.cache
+C:\Users\GHONIM\OneDrive\Desktop\cat\Week3\Week3\obj\Debug\net8.0\ref\Week3.dll
